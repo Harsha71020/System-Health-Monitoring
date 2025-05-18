@@ -213,3 +213,11 @@ The  `system_metrics.db`  database  stores  the  system  metrics  with  the  fol
 
 
 * This  project  provides  a  basic  monitoring  solution.  For  more  advanced  monitoring,  consider  using  dedicated  monitoring  tools.
+
+
+
+##  Output
+
+
+
+![Screenshot 2025-05-18 234026](https://github.com/user-attachments/assets/016275bc-bcef-4084-b14e-91968f0be747)
